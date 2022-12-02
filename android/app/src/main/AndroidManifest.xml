@@ -2,7 +2,7 @@
     package="com.example.webviewnew">
     
    <application
-        android:label="USBA"
+        android:label="PASBA"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher_usba"
         android:usesCleartextTraffic="true">

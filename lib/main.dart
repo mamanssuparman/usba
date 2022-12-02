@@ -14,10 +14,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'USBA SMK N 3 Banjar',
+      title: 'PASBA SMK N 3 Banjar',
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('USBA SMK N 3 Banjar'),
+          title: const Text('PASBA SMK N 3 Banjar'),
         ),
         body: const WebView(
           initialUrl: 'http://192.168.0.2/US/index.php/admin/',
